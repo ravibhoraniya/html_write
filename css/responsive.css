@@ -1,0 +1,48 @@
+@media (max-width:767px) {
+    .row{
+        margin: 0;
+    }
+    .footer-2{
+        text-align: center;
+    }
+    .ev_home_1 h2 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .ev_home_1 {
+        font-size: 14px;
+    }
+    .navbar-collapse {
+        padding: 20px 0 10px;
+    }
+    .footer-1 ul{
+        text-align: center;
+    }
+    .save_main .container .box h2 {
+        font-size: 18px;
+    }
+}
+@media (min-width:768px) and (max-width:991px) {
+
+}
+@media (max-width:991px) {
+    .main{
+        padding: 40px 0px;
+    }
+    .navbar-light .navbar-toggler-icon{
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255, 255, 255, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+    .navbar-light .navbar-toggler{
+        background: #414141;
+        outline: none;
+        border-radius: 0;
+    }
+    .main.save_main{
+        padding: 0;
+    }
+}
+@media (min-width:992px) and (max-width:1199px) {
+    .ev_home_1 h2 {
+        font-size: 22px;
+    }
+}

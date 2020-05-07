@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="31.724" viewBox="0 0 40 31.724">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#414141}
+        </style>
+    </defs>
+    <g id="prefix__Group_4264" data-name="Group 4264" transform="translate(-371 -308)">
+        <g id="prefix__video-player" transform="translate(371 302)">
+            <path id="prefix__Path_4620" d="M32.655 25.94l-7.594-4.833A.69.69 0 0 0 24 21.69v9.665a.691.691 0 0 0 1.061.583l7.594-4.833a.691.691 0 0 0 0-1.165zm-7.274 4.16v-7.152L31 26.523z" class="prefix__cls-1" data-name="Path 4620" transform="translate(-7.453 -4.661)"/>
+            <path id="prefix__Path_4621" d="M39.31 6H.69a.689.689 0 0 0-.69.69v30.344a.689.689 0 0 0 .69.69h38.62a.689.689 0 0 0 .69-.69V6.69a.689.689 0 0 0-.69-.69zM6.9 21.172H1.379v-6.206H6.9zm-5.521 1.38H6.9v6.207H1.379zm6.9 6.9V7.379h23.445v28.966H8.276zm30.345-8.276H33.1v-6.21h5.517zM33.1 22.552h5.517v6.207H33.1zm5.521-15.173v6.207H33.1V7.379zm-37.241 0H6.9v6.207H1.379zm0 28.966v-6.207H6.9v6.207zm37.241 0H33.1v-6.207h5.517z" class="prefix__cls-1" data-name="Path 4621"/>
+        </g>
+    </g>
+</svg>
