@@ -21,6 +21,10 @@
     .save_main .container .box h2 {
         font-size: 18px;
     }
+    .diaries_table .table .d-flex .cnt h3{
+        font-size: 12px;
+        line-height: 16px;
+    }
 }
 @media (min-width:768px) and (max-width:991px) {
 
